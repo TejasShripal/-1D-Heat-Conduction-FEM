@@ -1,0 +1,5 @@
+How to run the program:
+
+1. Create a folder named "results" in the directory in which "main.py" is located.
+2. Open the compiler of your choice and run the script "main.py" (make sure the two dependencies are installed: numpy, pandas)
+3. If needed, open the script in an editor and change the variable values as required under the section "MODIFY DATA HERE"
